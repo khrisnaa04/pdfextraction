@@ -21,8 +21,8 @@ This automation streamlines document processing by allowing users to submit PDF 
 ```sh
 📂 pdfextraction
 │─ 📂 assets
-  │── pdf-extraction-flow.png
-  │── pdf-extraction-usecase.png
+  │─ pdf-extraction-flow.png
+  │─ pdf-extraction-usecase.png
 │─ LICENSE 
 │─ README.md
 ```
