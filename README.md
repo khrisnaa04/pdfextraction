@@ -1,2 +1,24 @@
-# pdfextraction
-An automated workflow using Microsoft Power Automate and AI Builder to extract data from uploaded PDF files and store the results in Excel Online.
+# Automated PDF Data Extraction to Excel Using Microsoft AI Builder
+This repository documents a Power Automate flow designed to automate the extraction of structured data from PDF files using Microsoft AI Builder.
+
+## Use Case
+This automation streamlines document processing by allowing users to submit PDF files through a Microsoft Form. The flow then extracts relevant data using AI Builder and stores the result into a shared Excel sheet.  
+
+## Flow Overview
+1. **Trigger**: Microsoft Form submission.
+2. **Retrieve file** from the form response.
+3. **Send file to AI Builder** to extract fields.
+4. **Write extracted data** into a shared Excel Online (OneDrive/SharePoint) spreadsheet.
+
+## Tools & Connectors Used
+- Microsoft Power Automate
+- Microsoft Forms
+- Microsoft AI Builder
+- Excel Online (Business)
+- OneDrive / SharePoint
+
+## Notes
+- No confidential data is included in this repository.
+- The AI model used in this project was trained on dummy/sample data only.
+- All connections are handled securely within the Microsoft ecosystem.
+- Using AI Builder in Power Automate requires a premium license or a Microsoft 365 environment with AI Builder credits. Make sure your organization has the appropriate subscription to access AI capabilities.
