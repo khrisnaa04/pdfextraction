@@ -5,7 +5,7 @@ This repository documents a Power Automate flow designed to automate the extract
 ## Use Case
 This automation streamlines document processing by allowing users to submit PDF files through a `Microsoft Form`. The flow then extracts relevant data using AI Builder and stores the result into a shared Excel sheet.  
 
-[🔍 PDF Extraction Flow](assets/pdf-extraction-flow.png)
+[🔍 PDF Extraction Usecase](assets/pdf-extraction-usecase.png)
 
 ## Requirements
 - Microsoft Power Automate
@@ -20,7 +20,7 @@ This automation streamlines document processing by allowing users to submit PDF 
 3. **Send file to AI Builder** to extract fields.
 4. **Write extracted data** into a shared Excel Online (OneDrive/SharePoint) spreadsheet.
    
-[🔍 PDF Extraction Usecase](assets/pdf-extraction-usecase.png)
+[🔍 PDF Extraction Flow](assets/pdf-extraction-flow.png)
 
 ## File Structure
 ```sh
