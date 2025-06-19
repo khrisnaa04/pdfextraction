@@ -26,8 +26,24 @@ This automation streamlines document processing by allowing users to submit PDF 
 ```sh
 📂 pdfextraction
 │─ 📂 assets
-  │─ pdf-extraction-flow.png
-  │─ pdf-extraction-usecase.png
+   │─ pdf-extraction-flow.png
+   │─ pdf-extraction-usecase.png
+│─ 📂 scr
+   │─ BANK Delete.osts
+   │─ CT_BUPOT PPH 21 Delete.osts
+   │─ CT_BUPOT PPH UNIFIKASI Delete.osts
+   │─ CT_FP Delete.osts
+   │─ CT_SPT PPH 21 Delete.osts
+   │─ CT_SPT PPH UNIFIKASI Delete.osts
+   │─ CT_STP Delete.osts
+   │─ DJP_BUPOT PPH 21 Delete.osts
+   │─ DJP_BUPOT PPH UNIFIKASI Delete.osts
+   │─ DJP_FP Delete.osts
+   │─ DJP_SPT PPH 21 Delete.osts
+   │─ DJP_SPT PPH UNIFIKASI Delete.osts
+   │─ DJP_STP Delete.osts
+   │─ PIB Delete.osts
+   │─ SPT OP Delete.osts
 │─ LICENSE 
 │─ README.md
 ```
