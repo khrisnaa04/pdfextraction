@@ -1,9 +1,9 @@
 # Automated PDF Data Extraction to Excel Using Microsoft AI Builder
 This repository documents a Power Automate flow designed to automate the extraction of structured data from PDF files using `Microsoft AI Builder`.
+> Note: This repository is for documentation and portfolio purposes only. No actual flow files or sensitive business data are included.
 
 ## Use Case
 This automation streamlines document processing by allowing users to submit PDF files through a `Microsoft Form`. The flow then extracts relevant data using AI Builder and stores the result into a shared Excel sheet.  
-> Note: This repository is for documentation and portfolio purposes only. No actual flow files or sensitive business data are included.
 
 ## Requirements
 - Microsoft Power Automate
